@@ -19,6 +19,7 @@ My recipe for awesome carnitas
 2 cups chicken stock (have extra on hand)
 1/2 teaspoon liquid smoke OR smoked paprika
 1 large cast iron skillet, dutch oven or combination stovetop/ovenware with a heavy lid (or heavy duty tin foil)
+```
 
 1. Cut your pork but into manageable chunks about 5 inches by 5 inches. Coat the pork with al of the salt and pepper. Heat 1 tbsp of oil at a time in your pot over medium high heat. Sear your meat cubes on all sides, about 5 minutes per side until the meat is dark brown and lifts easily from the pot. Depending on the size of your pot, you may have to do 2 to 4 batches. If juice collects at the bottom of the pan that prevents a sear, remove the liquid between batches and re-grease the pot. If the bottom of your pot starts to get a little brown from searing the meat, don't remove the stuck on bits. Just add a little oil to keep them from turning black and acrid. When each batch is done, store it off to the side.
 
@@ -27,4 +28,3 @@ My recipe for awesome carnitas
 3. Remove from the oven and let sit for fat to rise to the top of the dish. Skim as much fat off the top as you can without removing the pork broth. Some fat is fine. Then, you can either store the meat over night in its liquid or cook some right out of the gate.
 
 4. When you're ready to eat, set a rack in your oven to 6 inches from the broiler and turn your broiler to high, or if you don't have a broiler set your oven to bake at 475 degrees. Either chunk the desired amount of meat into 2 inch cubes or just pull meat apart slightly, and place it on a foil-covered baking sheet. Place it in the oven for 6 minutes and check on it. Your pork should be a medium brown color and crispy on the outside. If the pork still looks light colored or is not crispy to the touch, pop it back in for another minute and check again. Check every minute, as it can get too dry or crisp quickly. Serve however you like, it's delicious no matter what you do to it lol
-```
