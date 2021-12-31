@@ -2,6 +2,7 @@
 My recipe for awesome carnitas
 
 
+```js
 4 lbs pork butt
 2 tablespoons ghee or unsalted lard (or some other high smoke point oil)
 1.5 teaspoons kosher salt
@@ -26,3 +27,4 @@ My recipe for awesome carnitas
 3. Remove from the oven and let sit for fat to rise to the top of the dish. Skim as much fat off the top as you can without removing the pork broth. Some fat is fine. Then, you can either store the meat over night in its liquid or cook some right out of the gate.
 
 4. When you're ready to eat, set a rack in your oven to 6 inches from the broiler and turn your broiler to high, or if you don't have a broiler set your oven to bake at 475 degrees. Either chunk the desired amount of meat into 2 inch cubes or just pull meat apart slightly, and place it on a foil-covered baking sheet. Place it in the oven for 6 minutes and check on it. Your pork should be a medium brown color and crispy on the outside. If the pork still looks light colored or is not crispy to the touch, pop it back in for another minute and check again. Check every minute, as it can get too dry or crisp quickly. Serve however you like, it's delicious no matter what you do to it lol
+```
